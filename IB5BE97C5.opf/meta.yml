@@ -1,0 +1,192 @@
+id: IB5BE97C5
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:09:32.638036'
+last_modified: '2022-05-30T22:09:32.638043'
+parser: null
+source_metadata:
+  title: Khenchen Jigme Phuntsok Series
+  language: zh
+  description: 'Works by and about the influential Nyingma teacher and treasure-revealer
+    Kyabje Khenchen Jigme Phuntsok Rinpoche (mkhan chen ''jigs med phun tshogs), aka
+    Khenpo Jigphun (1933–2004):'
+  volume:
+    fE48F:
+      title: 'The Heart Essence: My Heart''s Advice'
+      base_file: fE48F.txt
+      order: 1
+      parent: Advice
+    f2E4E:
+      title: Aspiration Prayer
+      base_file: f2E4E.txt
+      order: 2
+      parent: Aspiration Prayers
+    f461C:
+      title: Aspiration for Future Lives
+      base_file: f461C.txt
+      order: 3
+      parent: Aspiration Prayers
+    f7784:
+      title: Aspiration for the Spread of the Teachings of the Eight Chariots of the
+        Practice Lineage
+      base_file: f7784.txt
+      order: 4
+      parent: Aspiration Prayers
+    fDC8E:
+      title: Aspiration to be Cared For in Every Lifetime
+      base_file: fDC8E.txt
+      order: 5
+      parent: Aspiration Prayers
+    fB7E0:
+      title: 'The Song of Devotion: Verses of Aspiration for the Fulfilment of the
+        Enlightened Vision of Khenchen Jigme Phuntsok, the Reincarnation of Terton
+        Lerab Lingpa'
+      base_file: fB7E0.txt
+      order: 6
+      parent: Aspiration Prayers
+    f4F1B:
+      title: 'The Sun of Samantabhadra’s Realm: The Quintessence of Oceanic Prayers
+        of Aspiration'
+      base_file: f4F1B.txt
+      order: 7
+      parent: Aspiration Prayers
+    fC7E5:
+      title: 'The Swift Bestowal of Blessings: A Guru Yoga'
+      base_file: fC7E5.txt
+      order: 8
+      parent: Guru Yoga
+    f28DE:
+      title: Prayer to Khenchen Jigme Phuntsok
+      base_file: f28DE.txt
+      order: 9
+      parent: Lineage Prayers
+    f016D:
+      title: Prayer to the Chain of Rebirths
+      base_file: f016D.txt
+      order: 10
+      parent: Lineage Prayers
+    f3FF9:
+      title: 'The Healing Medicine of Faith: A Prayer to the Lineage of the Peaceful
+        Sādhana of Mañjuśrī'
+      base_file: f3FF9.txt
+      order: 11
+      parent: Lineage Prayers
+    f3D42:
+      title: 'The Swift Infusion of Blessings: A Lineage Prayer for the Single Mind
+        Kīla Heart-Practice, Part of the ''Neck Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      base_file: f3D42.txt
+      order: 12
+      parent: Lineage Prayers
+    fB428:
+      title: Prayer for the Long Life of His Holiness the Dalai Lama
+      base_file: fB428.txt
+      order: 13
+      parent: Long Life Prayers
+    fE590:
+      title: Prayer for the Long Life of Khandro Tāre Lhamo
+      base_file: fE590.txt
+      order: 14
+      parent: Long Life Prayers
+    fC2F3:
+      title: Prayer for the Long Life of Pema Norbu, Lord of Siddhas
+      base_file: fC2F3.txt
+      order: 15
+      parent: Long Life Prayers
+    f8A80:
+      title: Upon Arriving at Yangleshö
+      base_file: f8A80.txt
+      order: 16
+      parent: Pilgrimage
+    f0B6E:
+      title: 'A Lament of Faith: A Short Remembrance of, and Prayer to, My Guru, the
+        Wish-Fulfilling Jewel'
+      base_file: f0B6E.txt
+      order: 17
+      parent: Prayers
+    fA0C4:
+      title: 'The Sunlight of Blessings: A Prayer'
+      base_file: fA0C4.txt
+      order: 18
+      parent: Prayers
+    f34C6:
+      title: A Sādhana of Kurukullā from the Tidro Dharma Cycle
+      base_file: f34C6.txt
+      order: 19
+      parent: Sādhanas
+    fC444:
+      title: 'Accomplishing All Activity: A Daily Practice of the Great and Glorious
+        Dorje Drolö'
+      base_file: fC444.txt
+      order: 20
+      parent: Sādhanas
+    f1CBB:
+      title: 'Swift Bestowal of Blessings: A Peaceful Sādhana of Mañjuśrī'
+      base_file: f1CBB.txt
+      order: 21
+      parent: Sādhanas
+    f481B:
+      title: 'The Cintāmaṇi (Wish-Fulfilling Jewel) Instruction: A Sādhana of the
+        Glorious Vajrasattva, a Method of Purification and Accomplishment for Both
+        Self and Others'
+      base_file: f481B.txt
+      order: 22
+      parent: Sādhanas
+    f4D38:
+      title: 'A Yogi’s Song of Happiness: The Melody that Brings Universal Auspiciousness
+        and Fulfilment'
+      base_file: f4D38.txt
+      order: 23
+      parent: Songs
+    f4CCD:
+      title: 'The Sound of the Divine Drum: Advice at a Time of Victory'
+      base_file: f4CCD.txt
+      order: 24
+      parent: Songs
+    fDEF1:
+      title: 'The Spontaneous Sound of Uncontrived Song: A Lament Recalling the Great
+        Guru of Oḍḍiyāna'
+      base_file: fDEF1.txt
+      order: 25
+      parent: Songs
+    f446F:
+      title: 'Bestowing the Splendour of All That is Desirable: Fire Offering for
+        the ''Neck-Pouch Dagger’ (Purba Gulkhukma) Cycle'
+      base_file: f446F.txt
+      order: 26
+      parent: Vajrakīla
+    fCF4F:
+      title: Entrusting Activity
+      base_file: fCF4F.txt
+      order: 27
+      parent: Vajrakīla
+    f0AE4:
+      title: 'Inlaid Jewels: Addenda to the ''Neck-Pouch Dagger’ (Purba Gulkhukma)
+        Cycle'
+      base_file: f0AE4.txt
+      order: 28
+      parent: Vajrakīla
+    f907A:
+      title: 'Offering Clouds of Samantabhadra: Confession and Fulfilment'
+      base_file: f907A.txt
+      order: 29
+      parent: Vajrakīla
+    f86BD:
+      title: Offering to the Dharma Guardians of the 'Neck-Pouch Dagger’ (Purba Gulkhukma)
+        Cycle
+      base_file: f86BD.txt
+      order: 30
+      parent: Vajrakīla
+    fBED4:
+      title: The Single Mind Kīla Practice, Part of the 'Neck-Pouch Dagger’ (Purba
+        Gulkhukma) Cycle
+      base_file: fBED4.txt
+      order: 31
+      parent: Vajrakīla
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
